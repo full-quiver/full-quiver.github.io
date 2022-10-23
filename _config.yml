@@ -1,12 +1,12 @@
-title: Jekyll Serial Programmer
+title: Full Quiver Notes
 markdown: kramdown
 url: ""
-baseurl: "/jekyll-theme-serial-programmer"
+#baseurl: "/jekyll-theme-serial-programmer"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Full Quiver
+  email: 
 
 plugins:
   - jemoji
