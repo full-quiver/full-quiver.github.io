@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ephesians 6
+title: 2 Corinthians 6
 date: 2022-10-22 10:18:00
 categories: [quotable]
 ---
