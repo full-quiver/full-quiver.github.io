@@ -5,4 +5,10 @@ date: 2022-10-22 10:18:00
 categories: [quotable]
 ---
 
-> Finally, my brethren, be strong in the Lord, and in the power of his might. Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. **For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places**. Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace; 16Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
+> Be ye not unequally yoked together with unbelievers: **for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness? And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?**
+>
+> And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
+>
+> **Wherefore come out from among them, and be ye separate, saith the Lord**, and touch not the unclean thing; and I will receive you,
+>
+> And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
