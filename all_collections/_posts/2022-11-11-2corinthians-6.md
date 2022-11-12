@@ -2,7 +2,7 @@
 layout: post
 title: 2 Corinthians 6
 date: 2022-10-22 10:18:00
-categories: [quotable]
+categories: [quotable, separation]
 ---
 
 > Be ye not unequally yoked together with unbelievers: **for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness? And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?**
