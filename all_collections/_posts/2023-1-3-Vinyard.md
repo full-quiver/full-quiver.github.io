@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vinyard Parable
+title: Vineyard Parable
 date: 2023-1-3 10:18:00
 categories: [replacement-theology]
 ---

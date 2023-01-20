@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theology
-date: 2023-1-3 10:18:00
+date: 2023-1-15 10:18:00
 categories: [theology]
 ---
 

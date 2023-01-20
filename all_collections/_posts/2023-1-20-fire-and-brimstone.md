@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Original Fire and Brimstone Preacher
-date: 2023-1-20 10:18:00
+date: 2023-1-19 1:18:00
 categories: [Jesus, kjv-only]
 ---
 
